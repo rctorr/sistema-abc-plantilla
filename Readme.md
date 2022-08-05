@@ -11,5 +11,4 @@ Los archivos para cada módulo se encuentran en la carpeta `modulos/` como por e
 Los estilos principales son de tipo externo y se localizan en el archivo `static/css/main.css`
 
 ## Notas:
-Estoy haciendo un cambio desde un fork
-
+Estoy haciendo un cambio desde un Fork
